@@ -20,7 +20,7 @@
                 <publisher>Longman, Hurst, Rees, Orme, Brown, and Green</publisher>
                 <pubPlace>London</pubPlace>
                 <date>1825</date>
-                <idno type="URL">hhttps://archive.org/details/worksofannalaeti00barb/</idno>
+                <idno type="URL">https://archive.org/details/worksofannalaeti00barb/</idno>
             </bibl>
           </sourceDesc>
         </fileDesc>
@@ -35,23 +35,23 @@
         </profileDesc>
         <encodingDesc>
           <editorialDecl>
-          Lines with rend="indent" were indented to match stylistic choices in the published version.
+            Indentation reflects the metric pattern found in early printed editions and marks lines that are metrically subordinate.
          	</editorialDecl>
     	</encodingDesc>
     </teiHeader>
 <text>
     <body>
             <lg type="stanza">
-                <l rhyme="A" rend="margin-left:2em;">THE world's something bigger,</l>
-                <l rhyme="A" rend="margin-left:2em;">But just of this figure</l>
+                <l rhyme="A" rend="indent">THE world's something bigger,</l>
+                <l rhyme="A" rend="indent">But just of this figure</l>
                 <l rhyme="C">And speckled with mountains and seas;</l>
                 <l rhyme="D">Your heroes are overgrown schoolboys</l>
                 <l rhyme="D">Who scuffle for empires and toys,</l>
                 <l rhyme="C">And kick the poor ball as they please.</l>
                 <l rhyme="E">Now Caesar, now Pompey, gives law;</l>
-                <l rhyme="F" rend="margin-left:2em;">And Pharsalia's plain,</l>
-                <l rhyme="F" rend="margin-left:2em;">Though heaped with the slain,</l>
-                <l rhyme="E" rend="margin-left:2em;">Was only a game at <hi rend="italic">taw</hi>.</l>
+                <l rhyme="F" rend="indent">And Pharsalia's plain,</l>
+                <l rhyme="F" rend="indent">Though heaped with the slain,</l>
+                <l rhyme="E" rend="indent">Was only a game at <hi rend="italic">taw</hi>.</l>
             </lg>
         </body>
     </text>
